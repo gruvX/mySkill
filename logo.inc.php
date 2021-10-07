@@ -1,5 +1,5 @@
     
                 <div class="logo"> 
-                <img src="img/opt.png" alt="php">
+                <img src="opt.png" alt="php">
                 </div>                                                 
         
